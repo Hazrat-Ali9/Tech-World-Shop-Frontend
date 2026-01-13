@@ -2,7 +2,7 @@ import React, { useContext, useEffect } from 'react';
 
 import { Navigate, useLocation } from 'react-router-dom';
 import { AuthContext } from './AuthProvider';
-
+// private route
 const PrivateProvider = ({children}) => {
 
    const { user,loading } = useContext(AuthContext)
