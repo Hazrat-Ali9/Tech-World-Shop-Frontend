@@ -1,7 +1,7 @@
 import React, { useContext, useState } from 'react';
 import Product from './Product';
 import { AuthContext } from '../Provider/AuthProvider';
-
+// Brand products
 const BrandProducts = ({data}) => {
     const {dark} = useContext(AuthContext)
     console.log(data)
