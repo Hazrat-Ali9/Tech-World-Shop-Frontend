@@ -4,7 +4,7 @@ import Home from './../Home/Home';
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { BsFillSunFill } from "react-icons/bs";
 import { AuthContext } from '../Provider/AuthProvider';
-
+//navbar 
 const Navbar = () => {
     // const [dark,setDark] = useState(true)
     const { dark , setDark , name ,OUT, user } = useContext(AuthContext)
