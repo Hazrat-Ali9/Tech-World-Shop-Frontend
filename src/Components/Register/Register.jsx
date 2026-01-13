@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import { AuthContext } from '../Provider/AuthProvider';
 import { Link, Navigate, useLocation, useNavigate } from 'react-router-dom';
 import Swal from 'sweetalert2';
-
+// register
 const Register = () => {
     const { dark , setDark , In, update , Google , OUT ,  creatUser} = useContext(AuthContext)
    const navigate = useNavigate()
