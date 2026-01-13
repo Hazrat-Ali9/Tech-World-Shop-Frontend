@@ -14,5 +14,5 @@ const ShowroomItem = ({data , icon}) => {
         </div>
     );
 };
-
+// showroom item
 export default ShowroomItem;
