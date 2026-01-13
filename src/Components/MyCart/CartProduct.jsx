@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { AuthContext } from '../Provider/AuthProvider';
-
+// cart product
 const CartProduct = ({data,handleDelete}) => {
     const {user} = useContext(AuthContext)
     const {
