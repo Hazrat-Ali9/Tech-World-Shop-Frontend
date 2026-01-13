@@ -1,5 +1,5 @@
 import React from 'react';
-
+// no data
 const Nodata = () => {
     return (
         <div>
