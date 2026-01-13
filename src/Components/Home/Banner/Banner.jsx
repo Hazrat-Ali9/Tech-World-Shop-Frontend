@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { AuthContext } from '../../Provider/AuthProvider';
-
+// Banner js
 const Banner = () => {
     const { dark} = useContext(AuthContext)
     return (
