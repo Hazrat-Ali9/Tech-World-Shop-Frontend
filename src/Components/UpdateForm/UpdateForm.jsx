@@ -2,7 +2,7 @@ import { fromJSON } from 'postcss';
 import React, { useState } from 'react';
 import { Link, useLoaderData } from 'react-router-dom';
 import Swal from 'sweetalert2';
-
+// update from
 const UpdateForm = () => {
     const loadedData = useLoaderData()
     const {
