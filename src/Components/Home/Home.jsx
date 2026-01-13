@@ -4,7 +4,7 @@ import Showroom from './Showroom/Showroom';
 import { useLoaderData } from 'react-router-dom';
 import Brands from './Brands/Brands';
 import Contact from './Contact/Contact';
-
+// home js
 const Home = () => {
   const showRoom = useLoaderData()
     return (
