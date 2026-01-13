@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { AuthContext } from '../../Provider/AuthProvider';
 import { Link } from 'react-router-dom';
-
+// brand
 const Brand = ({data}) => {
     const {name,img , viewId , bannerImg , } = data
     const {dark} = useContext(AuthContext)
