@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { AuthContext } from '../../Provider/AuthProvider';
-
+// contact
 const Contact = () => {
     const {dark} = useContext(AuthContext)
     return (
