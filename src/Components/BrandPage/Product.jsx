@@ -9,7 +9,7 @@ import {
   } from "@material-tailwind/react";
 import { AuthContext } from '../Provider/AuthProvider';
 import { Link } from 'react-router-dom';
-
+// product
 const Product = ({data}) => {
     const {dark} = useContext(AuthContext)
     const {_id,image,name,brandName,type,price,rating,ExtraratingviewId} = data;
