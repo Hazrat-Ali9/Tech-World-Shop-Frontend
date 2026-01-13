@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { Carousel, Typography, Button } from "@material-tailwind/react";
 import { AuthContext } from '../Provider/AuthProvider';
-
+// brand slider
 const BrandSlider = ({data}) => {
       
       const {brandName , brandSliders} = data
