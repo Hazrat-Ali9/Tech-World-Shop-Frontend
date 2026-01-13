@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { AuthContext } from '../Provider/AuthProvider';
-// add product
+// footer
 const Footer = () => {
     const { dark } = useContext(AuthContext)
     return (
