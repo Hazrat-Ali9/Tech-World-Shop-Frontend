@@ -3,7 +3,7 @@ import { AuthContext } from '../../Provider/AuthProvider';
 import ShowroomItem from './ShowroomItem';
 import { FaHandHoldingHand } from "react-icons/fa6";
 import { FaBuromobelexperte , FaListCheck , FaSellsy } from "react-icons/fa6";
-
+// Showroom
 
 const Showroom = ({data}) => {
     const { dark } = useContext(AuthContext)
