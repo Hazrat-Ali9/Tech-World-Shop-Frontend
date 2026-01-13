@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from 'react';
 import { AuthContext } from '../Provider/AuthProvider';
 import CartProduct from './CartProduct';
 import Swal from 'sweetalert2';
-
+// my cart 
 const MyCart = () => {
     const [data, setdata ] = useState([])
     const {user , dark}  = useContext(AuthContext)    
