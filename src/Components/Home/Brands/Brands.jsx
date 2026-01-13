@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { AuthContext } from '../../Provider/AuthProvider';
 import Brand from './Brand';
-
+// brands
 const Brands = () => {
     const { dark } = useContext(AuthContext)
     const [data,setdata] = useState([])
