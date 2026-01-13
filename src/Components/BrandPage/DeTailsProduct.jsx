@@ -3,7 +3,7 @@ import { Link, useLoaderData } from 'react-router-dom';
 import { AuthContext } from '../Provider/AuthProvider';
 import Swal from 'sweetalert2';
 
-
+// Details Products
 const DeTailsProduct = () => {
     const { user } = useContext(AuthContext) 
     const data = useLoaderData()
