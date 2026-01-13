@@ -7,7 +7,7 @@ import Slider from 'react-slick';
 import BrandSlider from './BrandSlider';
 import BrandProducts from './BrandProducts';
 import Nodata from './Nodata';
-
+// Brand page
 const BrandPage = () => {
    const { name } = useParams()
    const LoadedData = useLoaderData()
