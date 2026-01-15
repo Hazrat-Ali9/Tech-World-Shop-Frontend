@@ -1,0 +1,204 @@
+[
+    {
+      "image": "https://i.ibb.co/5v3CS1C/bagus-hernawan-A6-Jx-K37-Il-Po-unsplash.jpg",
+      "name": "iPhone 13",
+      "brandName": "Apple",
+      "type": "Phone",
+      "price": 999,
+      "rating": "★★★★☆",
+      "viewId": "P1001",
+      "Extrarating": ["Excellent", "Good", "Average", "Poor", "Terrible"]
+    },
+    {
+      "image": "https://i.ibb.co/1GjtyhJ/4060988-1153-1.jpg",
+      "name": "Samsung Galaxy Book Pro",
+      "brandName": "Samsung",
+      "type": "Laptop",
+      "price": 1299,
+      "rating": "★★★★☆",
+      "Extrarating": ["Excellent", "Good", "Average"],
+      "viewId": "P1002"
+    },
+    {
+      "image": "https://i.ibb.co/nQVq3Qj/kreeson-naraidoo-HEak-Rn-Vztw-Q-unsplash.jpg",
+      "name": "Sony WH-1000XM4",
+      "brandName": "Sony",
+      "type": "Headphones",
+      "price": 349,
+      "rating": "★★★★★",
+      "Extrarating": ["Excellent", "Good", "Average"],
+      "viewId": "P1003"
+    },
+    {
+      "image": "https://i.ibb.co/MMXtsFF/the-average-tech-guy-Dsm-Dqi-Ydua-U-unsplash-1.jpg",
+      "name": "Google Pixel 6",
+      "brandName": "Google",
+      "type": "Phone",
+      "price": 799,
+      "rating": "★★★★☆",
+      "Extrarating": ["Excellent", "Good", "Average", "Poor", "Terrible"],
+      "viewId": "P1004"
+    },
+    {
+      "image": "https://i.ibb.co/wWnZmNT/slejven-djurakovic-0u-Xzo-Ez-YZ4-I-unsplash-1.jpg",
+      "name": "Intel Core i7 Processor",
+      "brandName": "Intel",
+      "type": "Processor",
+      "price": 299,
+      "rating": "★★★★★",
+      "Extrarating": ["Excellent", "Good", "Average", "Poor", "Terrible"],
+      "viewId": "P1005"
+    },
+    {
+      "image": "https://i.ibb.co/ZWKkS7F/ali-mahmoudi-p-PV3-C0-H-Xo0-unsplash.jpg",
+      "name": "Apple MacBook Air",
+      "brandName": "Apple",
+      "type": "Laptop",
+      "price": 999,
+      "rating": "★★★★☆",
+      "Extrarating": ["Excellent", "Good", "Average"],
+      "viewId": "P1006"
+    },
+    {
+      "image": "https://i.ibb.co/fGqMKKp/anh-nhat-Aon3-Ov8to-HM-unsplash.jpg",
+      "name": "Samsung Galaxy S21",
+      "brandName": "Samsung",
+      "type": "Phone",
+      "price": 899,
+      "rating": "★★★★★",
+      "Extrarating": ["Excellent", "Good", "Average"],
+      "viewId": "P1007"
+    },
+    {
+      "image": "https://i.ibb.co/zx188XF/caspar-camille-rubin-HUBNTCz-E-R8-unsplash-1.jpg",
+      "name": "Sony PlayStation 5",
+      "brandName": "Sony",
+      "type": "Gaming Console",
+      "price": 499,
+      "Extrarating": ["Excellent", "Good", "Average", "Poor", "Terrible"],
+      "rating": "★★★★★",
+      "viewId": "P1008"
+    },
+    {
+      "image": "https://i.ibb.co/4sdgv4m/andres-urena-i-U8f-DX7xnz-M-unsplash.jpg",
+      "name": "Google Nest Hub",
+      "brandName": "Google",
+      "type": "Smart Speaker",
+      "price": 99,
+      "rating": "★★★★☆",
+      "Extrarating": ["Excellent", "Good", "Average", "Poor"],
+      "viewId": "P1009"
+    },
+    {
+      "image": "https://i.ibb.co/d57Nbp7/shawnn-tan-K2bd0-DAu8y-I-unsplash.jpg",
+      "name": "Apple AirPods Pro",
+      "brandName": "Apple",
+      "type": "Headphones",
+      "price": 249,
+      "rating": "★★★★★",
+      "Extrarating": ["Excellent", "Good", "Average"],
+      "viewId": "P1010"
+    },
+    {
+      "image": "https://i.ibb.co/Wkb6vnB/christian-wiediger-Htfy7-Ta-DBgo-unsplash.jpg",
+      "name": "Intel Core i5 Processor",
+      "brandName": "Intel",
+      "type": "Processor",
+      "price": 199,
+      "rating": "★★★★☆",
+      "Extrarating": ["Excellent", "Good", "Average"],
+      "viewId": "P1011"
+    },
+    {
+      "image": "https://i.ibb.co/NLMHf7S/landscape-nature-scene-tv-appliance-generative-ai-1.jpg",
+      "name": "Sony Bravia 4K TV",
+      "brandName": "Sony",
+      "type": "TV",
+      "price": 799,
+      "rating": "★★★★★",
+      "Extrarating": ["Excellent", "Good", "Average", "Poor", "Terrible"],
+      "viewId": "P1012"
+    },
+    {
+      "image": "https://i.ibb.co/DYZGB3f/mika-baumeister-u-PTc-Vy-Oku-Oo-unsplash.jpg",
+      "name": "Google Pixel Buds",
+      "brandName": "Google",
+      "type": "Earbuds",
+      "price": 159,
+      "Extrarating": ["Excellent", "Good", "Average", "Poor"],
+      "rating": "★★★★☆",
+      "viewId": "P1013"
+    },
+    {
+      "image": "https://i.ibb.co/qkqC95L/samsung-memory-Tu8-F7ojdi-Eo-unsplash.jpg",
+      "name": "Samsung QLED 8K TV",
+      "brandName": "Samsung",
+      "type": "TV",
+      "price": 1999,
+      "rating": "★★★★★",
+      "Extrarating": ["Excellent", "Good", "Average", "Poor"],
+      "viewId": "P1014"
+    },
+    {
+      "image": "https://i.ibb.co/syz4RZ5/samsung-memory-Syfek-Qxg-x-Q-unsplash.jpg",
+      "name": "Intel SSD 660p Series",
+      "brandName": "Intel",
+      "type": "Solid State Drive (SSD)",
+      "price": 149,
+      "rating": "★★★★★",
+      "Extrarating": ["Excellent", "Good", "Average", "Poor"],
+      "viewId": "P1015"
+    },
+    {
+      "image": "https://i.ibb.co/93s6MxT/roman-spiridonov-Feme-Yrbd-MWE-unsplash.jpg",
+      "name": "Intel Core i9 Processor",
+      "brandName": "Intel",
+      "type": "Processor",
+      "price": 499,
+      "rating": "★★★★★",
+      "Extrarating": ["Excellent", "Good", "Average", "Poor", "Terrible"],
+      "viewId": "P1016"
+    },
+    {
+      "image": "https://i.ibb.co/7RKjyGN/serwin365-Fhi-OSze-VWes-unsplash.jpg",
+      "name": "Apple iPad Pro",
+      "brandName": "Apple",
+      "type": "Tablet",
+      "price": 799,
+      "rating": "★★★★☆",
+      "Extrarating": ["Excellent", "Good", "Average", "Poor"],
+      "viewId": "P1017"
+    },
+    {
+      "image": "https://i.ibb.co/Wf4qZdQ/smart-watch-smart-watch-are-charger-843415-968-1.jpg",
+      "name": "Samsung Galaxy Watch 4",
+      "brandName": "Samsung",
+      "type": "Smartwatch",
+      "price": 249,
+      "rating": "★★★★★",
+      "Extrarating": ["Excellent", "Good", "Average", "Poor"],
+      "viewId": "P1018"
+    },
+    {
+      "image": "https://i.ibb.co/R4jwzPv/aleks-dorohovich-EEl-ZSFXALI-unsplash.jpg",
+      "name": "Sony WF-1000XM4",
+      "brandName": "Sony",
+      "type": "Earbuds",
+      "price": 279,
+      "rating": "★★★★★",
+      "Extrarating": ["Excellent", "Good", "Average", "Poor", "Terrible"],
+
+      "viewId": "P1019"
+    },
+    {
+      "image": "https://i.ibb.co/86GKRjf/Simplicity-Meet-Chome-OS-2x-1.jpg",
+      "name": "Google Chromebook",
+      "brandName": "Google",
+      "type": "Laptop",
+      "price": 399,
+      "rating": "★★★★☆",
+      "Extrarating": ["Excellent", "Good", "Average", "Poor", "Terrible"],
+
+      "viewId": "P1020"
+    }
+  ]
